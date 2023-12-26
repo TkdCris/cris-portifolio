@@ -84,7 +84,7 @@ export default function Intro() {
         </a>
 
         <a
-          className="bg-white text-gray-700 px-4 py-3 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition border border-black/10"
+          className="bg-white text-gray-700 px-4 py-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition border border-black/10"
           href="https://www.linkedin.com/in/cristiano-lopes-duarte-0994821b7/"
           target="_blank"
         >
@@ -92,7 +92,7 @@ export default function Intro() {
         </a>
 
         <a
-          className="bg-white text-gray-700 px-4 py-3 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-110 hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition border border-black/10"
+          className="bg-white text-gray-700 px-[0.9rem] py-[0.9rem] flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-110 hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition border border-black/10"
           href="https://github.com/TkdCris"
           target="_blank"
         >
