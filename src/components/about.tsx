@@ -20,9 +20,11 @@ export default function About() {
         passionate about creating innovative and user-friendly solutions.
       </p>
       <p>
-        I&apos;m currently working on a project that aims to revolutionize the
-        way people work and learn. I&apos;m excited to contribute to this
-        project and make it a reality. Thank you for visiting my portfolio!{" "}
+        I&apos;m currently focusing on improving my skills both on the front-end
+        with nextjs and on the back-end with java using microservices
+        architecture. I&apos;m excited to improve my portfolio and get back into
+        the job market as part of a team that is passionate about what they do.
+        Thank you for visiting my portfolio!{" "}
       </p>
     </motion.section>
   );
