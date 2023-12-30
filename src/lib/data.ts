@@ -1,10 +1,8 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/../public/corpcomment.png";
-import rmtdevImg from "@/../public/rmtdev.png";
-import wordanalyticsImg from "@/../public/wordanalytics.png";
+import digital_agro from "@/../public/digital_agro.png";
+import digital_tracking_login from "@/../public/digital_tracking_login.png";
 
 export const links = [
   {
@@ -46,22 +44,16 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Controle Auto Revenda",
-    description: "",
-    tags: ["React", "TypeScript", "Antd"],
-    imageUrl: "",
-  },
-  {
     title: "Digital Agro",
-    description: "",
+    description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: "",
+    imageUrl: digital_agro,
   },
   {
     title: "Digital Tracking",
-    description: "",
+    description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: "",
+    imageUrl: digital_tracking_login,
   }
 ] as const;
 
