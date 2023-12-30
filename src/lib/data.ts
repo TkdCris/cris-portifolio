@@ -1,8 +1,7 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import digital_agro from "@/../public/digital_agro.png";
-import digital_tracking_login from "@/../public/digital_tracking_login.png";
+import digital_tracking_login from "@/images/digital_tracking_login.png";
+import digital_agro from "@/images/digital_agro.png"
 
 export const links = [
   {
