@@ -1,7 +1,5 @@
 import React from "react";
 import { FaReact } from "react-icons/fa";
-import digital_tracking_login from "@/images/digital_tracking_login.png";
-import digital_agro from "@/images/digital_agro.png"
 
 export const links = [
   {
@@ -46,13 +44,13 @@ export const projectsData = [
     title: "Digital Agro",
     description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: digital_agro,
+    imageUrl: "/digital_agro_login.png",
   },
   {
     title: "Digital Tracking",
     description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: digital_tracking_login,
+    imageUrl: "/digital_tracking_login.png",
   }
 ] as const;
 

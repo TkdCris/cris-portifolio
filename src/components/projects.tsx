@@ -42,6 +42,8 @@ const Project = ({ title, description, tags, imageUrl }: ProjectProps) => {
         alt="Project I worked on"
         src={imageUrl}
         quality={90}
+        width={200}
+        height={200}
         className="absolute top-8 -right-40 w-[28.25rem] rounded-t-lg shadow-2x1 
         group-hover:scale-105
         group-hover:-translate-x-3 group-hover:translate-y-3 group-hover:-rotate-2
