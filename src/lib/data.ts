@@ -44,13 +44,13 @@ export const projectsData = [
     title: "Digital Agro",
     description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: "/digital_agro_login.png",
+    imageUrl: "/digital_agro_login.jpg",
   },
   {
     title: "Digital Tracking",
     description: "Acrescentar um descrição sobre o projeto",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Java", "Microservices", "Keycloak"],
-    imageUrl: "/digital_tracking_login.png",
+    imageUrl: "/digital_tracking_login.jpg",
   }
 ] as const;
 
